@@ -2,14 +2,7 @@
 A code for data analyzing and visualizing data and some prediction models with airquality/AirQualityUCI.csv dataset.
 
 
----
 
-## 📌 Author
-
-**Zahra Jannati**  
-*Data Science Enthusiast | 2024*
-
----
 
 # 🌫️ Air Quality Analysis Project
 
@@ -92,4 +85,18 @@ By the end of preprocessing:
 ---
 
 ## 📁 Repository Structure
+```text
+├── AirQualityUCI.csv
+├── air_quality_analysis.ipynb
+└── README.md
+```
+
+---
+
+## 📌 Author
+
+**Zahra Jannati**  
+*Data Science Enthusiast | 2024*
+
+
 
